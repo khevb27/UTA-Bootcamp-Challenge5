@@ -69,7 +69,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Links
 
-- Deployment Link:
+- Deployment Link: https://khevb27.github.io/UTA-Bootcamp-Challenge5/ 
 - GitHub Repository Link: https://github.com/khevb27/UTA-Bootcamp-Challenge5 
 
 ----------------------------------------------------------------------
